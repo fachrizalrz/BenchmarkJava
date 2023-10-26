@@ -1,0 +1,8 @@
+id:
+  org: 46894da4-ac13-46a9-a00a-0e5aacda37f2
+  app: 99786bab-e597-4d49-b63e-7c6ac894e797
+
+  # CI/CD pipeline fails when risk rating(range 0-9) exceeds the configured value.
+  fail_pipeline:
+    risk_rating: 7
+
